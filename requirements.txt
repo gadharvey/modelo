@@ -1,0 +1,62 @@
+annotated-types==0.7.0
+anyio==4.9.0
+Brotli @ file:///C:/b/abs_c415aux9ra/croot/brotli-split_1736182803933/work
+certifi==2025.7.9
+charset-normalizer==3.4.2
+click==8.2.1
+colorama==0.4.6
+contourpy @ file:///C:/b/abs_f2u2o_8s9g/croot/contourpy_1732540071787/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+fastapi==0.116.1
+filelock==3.18.0
+fonttools @ file:///C:/b/abs_4crkswws2h/croot/fonttools_1737040078745/work
+fsspec==2025.5.1
+h11==0.16.0
+idna==3.10
+Jinja2==3.1.6
+kiwisolver @ file:///C:/b/abs_faf90xet7a/croot/kiwisolver_1737040915779/work
+MarkupSafe==3.0.2
+matplotlib==3.10.0
+mkl-service==2.4.0
+mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730823082242/work
+mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730822522280/work
+mpmath==1.3.0
+networkx==3.5
+numpy @ file:///C:/b/abs_71ejae7e2v/croot/numpy_and_numpy_base_1742570444043/work/dist/numpy-2.2.4-cp312-cp312-win_amd64.whl#sha256=51cd6ca08057acb115487cc25926841a5f12f8555a06e60179ffc632b9c70638
+opencv-python==4.10.0
+opencv-python-headless==4.10.0
+packaging @ file:///C:/b/abs_3by6s2fa66/croot/packaging_1734472138782/work
+pandas==2.3.1
+pillow @ file:///C:/b/abs_68t826txdy/croot/pillow_1744613085333/work
+psutil==7.0.0
+py-cpuinfo==9.0.0
+pydantic==2.11.7
+pydantic_core==2.33.2
+pyparsing @ file:///C:/b/abs_40z8gyj9wi/croot/pyparsing_1731445739241/work
+PyQt6==6.7.1
+PyQt6_sip @ file:///C:/b/abs_f47pmp6xmn/croot/pyqt-split_1744804513582/work/pyqt_sip
+python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
+python-multipart==0.0.20
+pytz==2025.2
+PyYAML==6.0.2
+requests==2.32.4
+scipy==1.16.0
+setuptools==72.1.0
+sip @ file:///C:/b/abs_5cto136kse/croot/sip_1738856220313/work
+six @ file:///C:/b/abs_149wuyuo1o/croot/six_1744271521515/work
+sniffio==1.3.1
+starlette==0.47.1
+sympy==1.14.0
+torch==2.7.1
+torchvision==0.22.1
+tornado @ file:///C:/b/abs_7cyu943ybx/croot/tornado_1733960510898/work
+tqdm==4.67.1
+typing-inspection==0.4.1
+typing_extensions==4.14.1
+tzdata==2025.2
+ultralytics==8.3.163
+ultralytics-thop==2.0.14
+unicodedata2 @ file:///C:/b/abs_dfnftvxi4k/croot/unicodedata2_1736543771112/work
+urllib3==2.5.0
+uvicorn==0.35.0
+wheel==0.45.1
